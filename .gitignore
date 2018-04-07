@@ -1,0 +1,10 @@
+# 2017ダイコン写真」qpics, thumsb を除外
+2017ダイコン写真/*
+qpics/*
+thumb/*
+
+# .DS_Store」._.DS_Store」を除外
+*.DS_Store
+
+# __pycache__」は除外
+__pycache__
